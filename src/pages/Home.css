@@ -1,0 +1,15 @@
+.homecontainer{
+    display: flex;
+    height: 100px;
+    width:100px
+   
+}
+
+
+
+.home-img img{
+    object-fit: fill;
+    height: 296px;
+    width: 280px;
+    margin-top: 80px;
+}

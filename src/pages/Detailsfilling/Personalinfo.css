@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+.profile{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow:hidden;
+    margin-left:20%
+    
+}
+.personal-container{
+    margin-top: 20px;   
+ 
+
+}
+
+.buttonGroupStyle  {
+    marginBottom: '10px', 
+  };
